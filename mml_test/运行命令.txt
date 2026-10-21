@@ -1,0 +1,2 @@
+python main.py  --model gpt-5.4 --data_path ./input/recognition_export.json --output_dir "outputs"
+python main.py  --model gpt-5.5 --data_path ./input/recognition_export.json --output_dir "outputs"

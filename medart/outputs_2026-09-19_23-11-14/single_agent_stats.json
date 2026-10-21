@@ -1,0 +1,59 @@
+{
+  "total_samples": 1888,
+  "correct_count": 1566,
+  "accuracy": 0.8294491525423728,
+  "per_type_stats": {
+    "recognition": {
+      "total": 774,
+      "correct": 648,
+      "accuracy": 0.8372093023255814
+    },
+    "measure": {
+      "total": 400,
+      "correct": 394,
+      "accuracy": 0.985
+    },
+    "parallel": {
+      "total": 314,
+      "correct": 252,
+      "accuracy": 0.802547770700637
+    },
+    "medical": {
+      "total": 400,
+      "correct": 272,
+      "accuracy": 0.68
+    }
+  },
+  "initial": {
+    "total_samples": 1888,
+    "correct_count": 1514,
+    "accuracy": 0.801906779661017,
+    "per_type_stats": {
+      "recognition": {
+        "total": 774,
+        "correct": 635,
+        "accuracy": 0.8204134366925064
+      },
+      "measure": {
+        "total": 400,
+        "correct": 392,
+        "accuracy": 0.98
+      },
+      "parallel": {
+        "total": 314,
+        "correct": 242,
+        "accuracy": 0.7707006369426752
+      },
+      "medical": {
+        "total": 400,
+        "correct": 245,
+        "accuracy": 0.6125
+      }
+    },
+    "answer_changes": {
+      "total_changed": 133,
+      "changed_to_correct": 90,
+      "changed_to_wrong": 16
+    }
+  }
+}
